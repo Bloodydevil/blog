@@ -82,7 +82,8 @@ url: https://www.bloody.io/ # The URL of your site
 
 # Google tracking, if both are filled, tag manager will prevail. Set up GA through GTM in that case
 tag_manager_id: # This looks something like GTM-XXXXXXX
-google_analytics_tracking_id: # This looks something like UA-000000000-0 Head over to https://analytics.google.com/ to setup.
+google_analytics_tracking_id: UA-38521338-2 
+ # This looks something like UA-000000000-0 Head over to https://analytics.google.com/ to setup.
 
 cookie_accept_message: Thanks! # The pop-up dialog that appears after accepting the cookie notice.
 
